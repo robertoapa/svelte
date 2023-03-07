@@ -12,6 +12,7 @@
 		"@sveltejs/adapter-static": "^2.0.1",
 		"@sveltejs/kit": "^1.9.3",
 		"svelte": "^3.54.0",
+		"svelte-preprocess": "^5.0.1",
 		"vite": "^4.0.0"
 	},
 	"type": "module",
